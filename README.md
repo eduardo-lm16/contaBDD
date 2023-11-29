@@ -1,3 +1,3 @@
 # contaBDD
 
-![testes.png](imagens\\testes.png)
+![testes.png](imagens/testes.png)
