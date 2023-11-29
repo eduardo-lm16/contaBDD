@@ -108,8 +108,8 @@ Ao executar o código no Cucumber, ele retorna métodos que serão necessários 
             }
         }
         
-<p>
-  Testes finais do projeto utilizando a classe Runner.
-</p>
+
+  ## Testes finais do projeto utilizando a classe Runner.
+
 
 <img src="imagens/testes.png">
