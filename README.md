@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# 
 
-## Criando o aquivo feature para criação dos cenarios
-
-=======
 # Testes Conta Bancária
 ## Testes com Cucumber
 <p>
