@@ -2,7 +2,7 @@
 # 
 
 ## Criando o aquivo feature para criação dos cenarios
-![testes.png](imagens/testes.png)
+
 =======
 # Testes Conta Bancária
 ## Testes com Cucumber
@@ -32,6 +32,8 @@ Ao executar o código no Cucumber, ele retorna métodos que serão necessários 
           | Nome   | Valor | Resultado |
           | teste1 | -100  | Aceito    |
           | teste2 | -200  | Negado    |
+
+<img src="imagens/erros.png">
 
  ## Criação de Classes
 <P>
@@ -119,4 +121,3 @@ Ao executar o código no Cucumber, ele retorna métodos que serão necessários 
 
 
 <img src="imagens/testes.png">
->>>>>>> 05b6a6cc31f9a7cf8c1d8a6054f3c54a30d9d8a4
